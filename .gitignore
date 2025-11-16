@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env (we won't store venvs in repo)
+.venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Data
+data/
