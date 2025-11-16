@@ -1,5 +1,4 @@
-
-```markdown
+---
 # NIDAR Survivor Detection
 
 Detect stranded humans in drone footage using YOLOv8.
@@ -20,7 +19,7 @@ The project is part of the NIDAR flood rescue initiative.
 
 ## Repository Structure
 
-```
+```bash
 
 NIDAR_survivor_detection/
 │
@@ -31,7 +30,7 @@ NIDAR_survivor_detection/
 ├─ runs/                         # YOLOv8 training results (generated after training)
 └─ README.md
 
-
+```
 
 ---
 
