@@ -11,3 +11,10 @@ __pycache__/
 
 # Data
 data/
+
+# YOLO training outputs
+runs/
+
+# Model weights
+*.pt
+*.pth
