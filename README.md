@@ -1,6 +1,6 @@
 # 🚁 NIDAR: Aerial Survivor Detection (Edge AI)
 
-**Lead ML Engineering for the National Innovation Challenge for Drone Application and Research (NIDAR)**
+**Lead ML Engineer of my Team for the National Innovation Challenge for Drone Application and Research (NIDAR)**
 
 This repository contains the end-to-end Machine Learning pipeline developed for the Drone Federation of India (DFI) National Challenge. The system is architected to detect stranded humans in flood-affected regions using high-resolution aerial vision and real-time edge inference.
 
@@ -34,7 +34,7 @@ Standard 640px models often fail to localize humans from altitudes >30m.
 
 - **Resolution:** Trained at 1280px to maintain spatial features of distant survivors.  
 - **Optimization:** 200-epoch training run with heavy augmentation (Mosaic, Mixup, Blur) to simulate storm conditions.  
-- **Notebook:** View the full training logs and hyperparameter tuning on Kaggle.  
+- **Notebook:** View the full training logs and hyperparameter tuning in [notebook](training.ipynb).  
 
 ---
 
