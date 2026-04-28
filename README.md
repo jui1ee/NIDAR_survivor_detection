@@ -1,7 +1,8 @@
 # 🚁 NIDAR: Aerial Survivor Detection (Edge AI)
 
-**Lead ML Engineer of my Team for the National Innovation Challenge for Drone Application and Research (NIDAR)**
+Real-time aerial detection of flood survivors using YOLOv8n deployed on Raspberry Pi 5 with Sony IMX500 NPU. Achieved mAP@50 of 0.697 on filtered VisDrone2019 data, running inference on constrained edge hardware as part of the DFI NIDAR national challenge.
 
+**Lead ML Engineer of my Team for the National Innovation Challenge for Drone Application and Research (NIDAR)**
 This repository contains the end-to-end Machine Learning pipeline developed for the Drone Federation of India (DFI) National Challenge. The system is architected to detect stranded humans in flood-affected regions using high-resolution aerial vision and real-time edge inference.
 
 ---
